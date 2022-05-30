@@ -1,5 +1,5 @@
 import cohere
-co = cohere.Client('IU4YaG03Odkb7zAcHJ8AHHiYBUUlhPFxPbb7gjhj')
+co = cohere.Client()
 
 
 def prediction(text):
